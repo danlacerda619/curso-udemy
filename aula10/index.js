@@ -17,4 +17,6 @@ if(nome.length < nome2.length) {
 }
 console.log(umaString.replace(/Um texto/, 'maçã'))
 console.log(umaString.toUpperCase())
-console.log(umaString.toLowerCase())
+console.log(umaString.toLowerCase()) 
+
+
